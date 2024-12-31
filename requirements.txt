@@ -2,4 +2,4 @@ dash==2.18.2
 numpy==2.2.1
 pandas==2.2.3
 gunicorn
-dash-tools
+dash-tools==1.12.0
